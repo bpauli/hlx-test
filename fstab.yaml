@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: https://245265-xwalk-devpauli.adobeioruntime.net/api/v1/web/main/convert/
-    type: markup
-    suffix: ".html?wcmmode=disabled"
+  /: https://drive.google.com/drive/folders/1eSGWYI1U5e9i3Xa3ZKeSV8PdQYoigBNg
